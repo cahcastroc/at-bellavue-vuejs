@@ -1,20 +1,22 @@
 # Bella Vue - AT Vue.Js
 
 
-At de entrega final para a disciplina de Frameworks Front-end e conexão com Back-end do INFNET 
+Assesment Vue.JS da disciplina Frameworks Front-end e conexão com Back-end apresentada ao curso de Análise e Desenvolvimento de Sistemas, do Instituto INFNET.
 
-##Bloco finalizado em abril/2022
 
-##Tecnologias:
+#### Bloco finalizado em abril/2022
 
-### Vue.js
-### HTML
-### CSS
-### JavaScript
+## Tecnologias:
 
+* Vue.JS
+* HTML
+* CSS
+* JavaScript
 
 
 ## Comandos de execução:
+
+In the project directory, you can run:
 ```
 npm install
 ```
@@ -24,14 +26,6 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
 
 
