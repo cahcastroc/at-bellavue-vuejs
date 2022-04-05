@@ -1,6 +1,20 @@
-# at-vue-js
+# Bella Vue - AT Vue.Js
 
-## Project setup
+
+At de entrega final para a disciplina de Frameworks Front-end e conexão com Back-end do INFNET 
+
+##Bloco finalizado em abril/2022
+
+##Tecnologias:
+
+### Vue.js
+### HTML
+### CSS
+### JavaScript
+
+
+
+## Comandos de execução:
 ```
 npm install
 ```
@@ -20,5 +34,4 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
